@@ -1,5 +1,4 @@
-````bash
-cat > README.md << 'EOF'
+
 # MoltVoteBot
 **A beginner-friendly voting assistant for the Circle USDC Moltbook Hackathon**
 
